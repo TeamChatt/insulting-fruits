@@ -1,0 +1,10 @@
+{
+  "name": "insulting-fruit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matt Kaemmerer <matthew.kaemmerer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
