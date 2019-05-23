@@ -21,4 +21,4 @@ function tweet() {
 }
 
 tweet()
-setInterval(tweet, ONE_DAY)
+setInterval(tweet, ONE_DAY/3) // Tweet three times a day
